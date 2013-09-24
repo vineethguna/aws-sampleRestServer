@@ -7,7 +7,7 @@
  */
 
 //DB constants
-exports.DBHOST = "localhost";
-exports.DBUSERNAME = "root";
-exports.DBPASSWORD = "root";
+exports.DBHOST = "mysqltestdbinstance.chdy3grdylcm.ap-southeast-1.rds.amazonaws.com";
+exports.DBUSERNAME = "vineethguna";
+exports.DBPASSWORD = "V4VIN!((#8790";
 exports.DBPORT = "3306";
