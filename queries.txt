@@ -1,0 +1,1 @@
+CREATE TABLE complaints(complaintid varchar(40), customername varchar(100) NOT NULL, modelnumber varchar(40) NOT NULL, mobileno varchar(15) NOT NULL, address TEXT NOT NULL,complaintcategory varchar(50), complaintdescription TEXT NOT NULL, time DATETIME NOT NULL, PRIMARY KEY(complaintid));
